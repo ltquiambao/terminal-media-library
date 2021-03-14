@@ -1,0 +1,27 @@
+[
+    {
+        "_title": "sampleBook",
+        "_isCheckedOut": false,
+        "_ratings": [],
+        "_author": "sampleAuthor",
+        "_pages": 100
+    },
+    {
+        "_title": "sampleMovie",
+        "_isCheckedOut": false,
+        "_ratings": [],
+        "_director": "sampleDirector",
+        "_runTime": 300
+    },
+    {
+        "_title": "sampleCD",
+        "_isCheckedOut": false,
+        "_ratings": [],
+        "_artist": "sampleArtist",
+        "_songs": [
+            "sampleSong1",
+            "sampleSong2",
+            "sampleSong3"
+        ]
+    }
+]
